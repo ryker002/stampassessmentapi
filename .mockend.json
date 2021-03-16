@@ -1,0 +1,7 @@
+{
+    "questions": {
+        "question": "string",
+        "id": "int",
+        "important": "boolean"
+    }
+}
